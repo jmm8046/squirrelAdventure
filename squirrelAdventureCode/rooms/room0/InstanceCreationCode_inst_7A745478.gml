@@ -1,0 +1,1 @@
+target = room1;	//room index start at 0
